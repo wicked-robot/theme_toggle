@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+  <id>theme_toggle</id>
+  <name>Theme Toggle</name>
+  <summary>One-click Light/Dark toggle in the header</summary>
+  <description>Adds a sun/moon button to the header to switch Light/Dark theme.</description>
+  <version>1.0.0</version>
+  <licence>agpl</licence>
+  <author>Your Name</author>
+  <namespace>ThemeToggle</namespace>
+  <category>customization</category>
+  <dependencies>
+    <nextcloud min-version="25" />
+  </dependencies>
+</info>
